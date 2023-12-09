@@ -1,0 +1,134 @@
+[
+  {
+    "id":6,
+    "picture": "https://i.ibb.co/R2YxbDx/cloth-2.jpg",
+    "title": "Clothing",
+    "category": "Accessories",
+    "category_bg": "#c0392b", 
+    "card_bg": "#cccccc", 
+    "text_button_bg": "#e74c3c",
+    "description": "Accessorize your wardrobe and uplift the spirits of those in need. Your contribution provides essential accessories to vulnerable individuals, bringing smiles in difficult times.",
+    "price": 14.99
+  },
+  {
+    "id":3,
+    "picture": "https://i.ibb.co/JcVMqMB/food-1.webp",
+    "title": "Food & Care",
+    "category": "Groceries",
+    "category_bg": "#e67e22", 
+    "card_bg": "#333333", 
+    "text_button_bg": " #e6228a ", 
+    "description": "Hunger knows no boundaries. Together, we can ensure that no one goes to bed with an empty stomach. Your contribution supports our mission to provide nourishment and care to the less fortunate.",
+    "price": 9.99
+  },
+  {
+    "id":2,
+    "picture": "https://i.ibb.co/hHD1pND/cloth-1.jpg",
+    "title": "Clothing",
+    "category": "Apparel",
+    "category_bg": "#c0392b", 
+    "card_bg": "#cccccc", 
+    "text_button_bg": "#e74c3c",
+    "description": "In the chill of winter, many shiver without warm clothes. Your donation can provide them with the warmth of compassion through our clothing distribution program.",
+    "price": 39.99
+  },
+  {
+    "id":7, 
+    "picture": "https://i.ibb.co/TvD7Cgw/food-2.webp",
+    "title": "Food & Care",
+    "category": "Organic Produce",
+    "category_bg": "#e67e22", 
+    "card_bg": "#333333", 
+    "text_button_bg": " #e6228a ", 
+    "description": "Freshness and health go hand in hand. Your donation helps us provide organic produce, straight from the farm, to those who deserve the goodness of nature.",
+    "price": 5.99
+  },
+  {
+    "id":5,
+    "picture": "https://i.ibb.co/fkhbLfZ/edu-3.jpg",
+    "title": "Education",
+    "category": "Courses",
+    "category_bg": "#2c3e50", 
+    "card_bg": "#ecf0f1", 
+    "text_button_bg": "#3498db", 
+    "description": "Education empowers individuals and transforms lives. Your generous donations enable us to offer online courses and educational resources to those who aspire to learn but lack access.",
+    "price": 29.99
+  },
+  {
+    "id":8,
+    "picture": "https://i.ibb.co/vdSGj6k/health-2.webp",
+    "title": "Health",
+    "category": "Fitness",
+    "category_bg": "#1e8449", 
+    "card_bg": "#ffff00", 
+    "text_button_bg": "#27ae60",
+    "description": "Physical fitness is a pathway to a brighter future. Your support enables us to provide top-notch fitness equipment to communities, promoting a healthier and happier life.",
+    "price": 79.99
+  },
+  {
+    "id":9,
+    "picture": "https://i.ibb.co/hLhJkTV/edu-4.webp",
+    "title": "Education",
+    "category": "Stationery",
+    "category_bg": "#2c3e50", 
+    "card_bg": "#ecf0f1",
+    "text_button_bg": "#3498db", 
+    "description": "Equip young minds with the tools of knowledge. Your donations provide quality stationery for a productive learning experience, helping dreams take flight.",
+    "price": 9.99
+  },
+  {
+    "id":12,
+    "picture": "https://i.ibb.co/bbb6XVn/health-3.jpg",
+    "title": "Health",
+    "category": "Supplements",
+    "category_bg": "#1e8449", 
+    "card_bg": "#ffff00",
+    "text_button_bg": "#27ae60", 
+    "description": "Good health is a treasure, and you can be the key. Your donations enable us to provide high-quality nutritional supplements to those in need, ensuring a healthier life for all.",
+    "price": 24.99
+  },
+  {
+    "id":4,
+    "picture": "https://i.ibb.co/RSspQYb/health-1.webp",
+    "title": "Health",
+    "category": "Wellness",
+    "category_bg": "#1e8449",
+    "card_bg": "#ffff00", 
+    "text_button_bg": "#27ae60", 
+    "description": "Good health is a precious gift. Your support can make quality healthcare and wellness accessible to underserved communities, ensuring a healthier and happier future for all.",
+    "price": 49.99
+  },
+  {
+    "id":11,
+    "picture": "https://i.ibb.co/FkpKj86/food-3.jpg",
+    "title": "Food & Care",
+    "category": "Desserts",
+    "category_bg": "#e67e22", 
+    "card_bg": "#333333", 
+    "text_button_bg": " #e6228a ",
+    "description": "Sweetness can bring joy to even the most challenging times. Your donation supports our mission to offer delectable desserts as a treat to those facing adversity.",
+    "price": 7.99
+  },
+  {
+    "id":1,
+    "picture": "https://i.ibb.co/3NK0V8Q/Education.png",
+    "title": "Education",
+    "category": "Books",
+    "category_bg": "#2c3e50", 
+    "card_bg": "#ecf0f1", 
+    "text_button_bg": "#3498db", 
+    "description": "Join us in the journey to bring light to young minds. Your contribution to our educational initiatives will help provide books and learning resources to those in need.",
+    "price": 19.99
+  },
+  {
+    "id":10,
+    "picture": "https://i.ibb.co/mDjq6Q6/cloth-3.jpg",
+    "title": "Clothing",
+    "category": "Footwear",
+    "category_bg": "#c0392b", 
+    "card_bg": "#cccccc", 
+    "text_button_bg": "#e74c3c", 
+    "description": "Walking in someone else's shoes can be life-changing. Your contribution allows us to provide trendy and comfortable footwear to those who need it most.",
+    "price": 34.99
+  }
+]

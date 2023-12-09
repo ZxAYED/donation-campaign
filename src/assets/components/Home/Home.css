@@ -1,0 +1,7 @@
+.image{
+ 
+   
+    background-blend-mode: overlay;
+    background-size:cover;
+  object-fit: cover;
+}
